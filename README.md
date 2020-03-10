@@ -22,7 +22,7 @@ As it can be seen the final footprint of the PCB is quite small. Also the PCB is
 The circuit is powered by a theoretical 5V supply. However, due to space restraints the PSU is located 9m away from the thermostat and connected to it with thin wires. This means that depending on the power load of the circuit the voltage could fall below accepted values (the 7 seg display needs to be powered with 5V)
 To overcome this problem the input supply is fed to a TPS63060 buck-boost converter that outputs stable 5V. Then a linear regulator is used to get 3.3V in order to power the MCU and other iC.
 
-The temeprature sensor chosen is the SI7021. Which is a 3.3V I2C temperature and humidty sensor.
+The temperature sensor chosen is the SI7021. Which is a 3.3V I2C temperature and humidty sensor.
 For the RS232 comunication the MAX3232 is used.
 
 The 7 segment display is controlled via a TM1637 IC to simplify the displaying of numbers and in order to reduce the component count.
