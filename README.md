@@ -36,3 +36,23 @@ A 3D model of the PCB is showed below:
 </p>
 
 This model will be later used to create a case for the PCB.
+
+The 3D model of the case was designed using Fusion360.
+</p>
+<p align="center">
+  <img width="750" src="/images/image5.png">
+</p>
+
+</p>
+<p align="center">
+  <img width="750" src="/images/image6.png">
+</p>
+
+For asthetic purposes the 7 segment display is designed to sit inside the case flushed into its walls. As the model will be printed in white PLA the light will be able to shine through the plastic while the frontal part of the 7segment display will be hidden. This idea is shown on the photo below:
+</p>
+<p align="center">
+  <img width="750" src="/images/image7.png">
+</p>
+As you can see the 7 segment display (blue rectangular form) is completly flushed (minus some tolerance) into the case.
+
+The cover is designed to fit into the base with a snap fit. The method used for it can be seen in the following section analysis:
