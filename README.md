@@ -55,4 +55,4 @@ For asthetic purposes the 7 segment display is designed to sit inside the case f
 </p>
 As you can see the 7 segment display (blue rectangular form) is completly flushed (minus some tolerance) into the case.
 
-The cover is designed to fit into the base with a snap fit. The method used for it can be seen in the following section analysis:
+The cover is designed to fit into the base with a snap fit. 
