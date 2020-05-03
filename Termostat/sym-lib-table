@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name prova-kicad-rescue)(type Legacy)(uri "${KIPRJMOD}/prova kicad-rescue.lib")(options "")(descr ""))
+  (lib (name TM1637)(type Legacy)(uri ${KIPRJMOD}/TM1637.lib)(options "")(descr ""))
+)
