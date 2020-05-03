@@ -5,7 +5,7 @@ This project involves creating a heating thermostat that interfaces with the use
 
 The information of the ambient temperature and the set temperature is sent to the controller (see https://github.com/mbc99/heater-controller-v2 for more details on that part) via RS232. 
 
-The microcontroller of this thermostat is a stm32f103c8t6. This is the same microcontroller that is used in the Blue Pill development board which can be find for less than 2€. This gives an economical advantage since the MCU can be found for less than 1€ on Aliexpress.
+The microcontroller of this thermostat is a stm32f103c8t6. This is the same microcontroller that is used in the Blue Pill development board which can be found for less than 2€. This gives an economical advantage since the MCU can be found for less than 1€ on Aliexpress.
 For simplicity purposes the programing was made using Mbed Studio and using the Mbed OS RTOS to simplify timings and programing.
 
 The PCB was designed using Kicad. The main purpose of using a PCB was to create a circuit as small as possible (since the thermostat was meant to be installed on a living room). A simplified view of the schematic can be seen below (see files for the full kicad project):
@@ -14,7 +14,7 @@ The PCB was designed using Kicad. The main purpose of using a PCB was to create 
   <img width="750" src="/images/image1.png">
 </p>
 
-As it can be seen the final footprint of the PCB is quite small. Also the PCB is not completly square to have space for the cable connextion (the objective is that the case is small as posible but with a rectangular form)
+As it can be seen the final footprint of the PCB is quite small. Also, the PCB is not completly square to have space for the cable conection (the objective is that the case is small as posible but with a rectangular form)
 <p align="center">
   <img width="750" src="/images/image2.png">
 </p>
